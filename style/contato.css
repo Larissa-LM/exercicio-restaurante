@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+
+}
+/*Design header e menu*/
+body{
+    width: 940px;
+}
+header{
+    width: 940px;
+    height:150px;
+   
+}
+.logo{
+    width:200px; 
+    height:100px;
+    position:absolute;
+    top: 0px;
+}
+h1{
+    text-align: center;
+    color:lightgreen;
+    padding: 20px;
+    font-size: 60px;
+
+}
+#nav{
+    float: left;
+    width:30%;
+    padding: 0px;
+    margin: 0px;
+    height: 789px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: lightgreen;
+    font-size: 30px;
+}
+li{
+    margin-left: 9px;
+    margin-bottom:30px;
+}
+a:hover{
+    color:green;
+}
+.background{
+    background-color: black;
+}
+.content{
+    position:relative;
+    float:right;
+    bottom: 34.5px;
+    width: 70%;
+    height: 800px;
+    background-color: lightgreen;
+
+}
+
+/*Design forms*/
+label{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    opacity: 1;
+}
+#botao{
+    background-color: white;
+    width: 60px;
+    height: 30px;
+}
+#nome{
+    width:40%;
+}
+#email{
+    width: 30%;
+}
+
+form{
+    margin-top: 30px;
+    margin-left: 90px;
+
+}
+iframe{
+    margin-top: 50x;
+    margin-left: 20px;
+}
+/* h2{
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 150px;
+} */
