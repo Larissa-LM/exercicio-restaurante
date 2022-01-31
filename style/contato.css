@@ -34,7 +34,7 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 789px;
+    height: 824px;
 }
 a{
     list-style: none;
@@ -58,7 +58,7 @@ a:hover{
     float:right;
     bottom: 34.5px;
     width: 70%;
-    height: 850px;
+    height: auto;
     background-color:#e94040;
 
 }
@@ -94,10 +94,15 @@ iframe{
 }
 h2{
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 30px;
     margin-left: 50px;
     font-size: 30px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.caixa{
+    position: relative;
+    margin: 0 250px 0 0;
+
 }
 h3{
     display: inline-block;
