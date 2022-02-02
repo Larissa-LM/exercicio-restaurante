@@ -88,8 +88,10 @@ h3:hover{
     display:inline-block;
 }
 .gallery:hover{
-    color: black;
-    opacity: 0.3;
+    background-color: tomato;
+}
+.gallery:hover p{
+    font-size: 30px;
 }
 .img{
     width: 200px;
