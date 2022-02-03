@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+
+}
+/*Design header e menu*/
+body{
+    width: 940px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    width: 940px;
+    height:150px;
+   
+}
+.logo{
+    width:100x; 
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    color:white;
+    padding: 20px;
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#nav{
+    float: left;
+    width:30%;
+    padding: 0px;
+    margin: 0px;
+    height: 824px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li{
+    margin-left: 9px;
+    margin-bottom:30px;
+    list-style: none;
+}
+a:hover{
+    color:red;
+}
+.background{
+    background-color: black;
+}
+.content{
+    position:relative;
+    float:right;
+    bottom: 34.5px;
+    width: 70%;
+    height: auto;
+    background-color:#e94040;
+
+}
+
+/*Design forms*/
+label{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    opacity: 1;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#botao{
+    background-color: white;
+    width: 60px;
+    height: 30px;
+}
+#nome{
+    width:40%;
+}
+#email{
+    width: 40%;
+}
+
+form{
+    margin-top: 30px;
+    margin-left: 60px;
+
+}
+iframe{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+h2{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.caixa{
+    position: relative;
+    margin: 0 250px 0 0;
+
+}
+h3{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left:30px;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

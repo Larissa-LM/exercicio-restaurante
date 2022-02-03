@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0; /*remove config padrão do navegador*/
+    border:0;
+}
+
+body{
+   max-width: 940px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+header{
+    width: 940px;
+    height:150px;
+
+}
+h1{
+    text-align: center;
+    color:white;
+    padding: 20px;
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.logo{
+    width:100x;
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+#nav{
+    float: left;
+    width:30%;
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+.background{
+    background-color: black;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 9px;
+    margin-bottom:30px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover{
+    color:red;
+}
+.content{
+    position:relative;
+    float:right;
+    bottom: 34.5px;
+    width: 70%;
+    height: auto;
+    background-color:#e94040;
+
+
+}
+/* Organização do Cardápio */
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    padding: 15px;
+
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+    padding: 20px 10px;
+    margin-left: 30px;
+}
+.produtos li:hover{
+    background-color:tomato;
+}
+.produtos li:hover h3{
+    font-size: 25px;
+}
+.descricao{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.preco{
+    font-weight: bold;
+    margin-top: 5px;
+    text-align: center;
+}
+.img-produtos{
+    width: 200px;
+    height: 200px;
+}
+
+
