@@ -1,18 +1,25 @@
 *{
-    margin:0;
+    margin: 0;
     padding: 0; /*remove config padrão do navegador*/
     border:0;
 }
 
+/*Design header e menu*/
 body{
-    width: 940px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
 }
 header{
-    width: 940px;
-    height:150px;
+    width: 100%;
+    height: 100%;
+   
+}
+.logo{
+    width:100px; 
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 1%;
+    margin-top: 1%;
 }
 h1{
     text-align: center;
@@ -20,33 +27,14 @@ h1{
     padding: 20px;
     font-size: 60px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
- 
-}
-.logo{
-    width:100px;
-    height:100px;
-    position:absolute;
-    top:0px;
-    margin-left: 10px;
-    margin-top: 10px;
-    
+
 }
 #nav{
     float: left;
     width:30%;
-    padding: 0px;
-    margin: 0px;
-    height: 766px;
-}
-.background{
-    background-color: black;
-}
-li{
-    list-style: none;
-    text-decoration: none;
-    margin-left: 9px;
-    margin-bottom:30px;
-    margin-top: 15px;
+    padding: 0%;
+    margin: 0%;
+    height: 849px;
 }
 a{
     list-style: none;
@@ -55,13 +43,20 @@ a{
     font-size: 30px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
+li{
+    margin-top: 10%;
+    margin-left: 1%;
+    margin-bottom:7%;
+}
 a:hover{
     color:red;
 }
+.background{
+    background-color: black;
+}
 .content{
     float:right;
-    bottom: 34.5px;
+    bottom: 5%;
     width: 70%;
     height: auto;
     background-color:#e94040;
@@ -72,8 +67,8 @@ h2{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
     text-align: center;
-    margin: 20px 0;
-    padding: 15px;
+    margin: 3% 0;
+    padding: 2%;
 
 }
 .produtos li{
@@ -81,11 +76,13 @@ h2{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     box-sizing: border-box;
-    padding: 20px 10px;
-    margin-left: 30px;
+    padding: 2% 1%;
+    margin: 3% 4%
 }
 .produtos li:hover{
     background-color:tomato;
+    width: 25% ;
+    height: 10%;
 }
 .produtos li:hover h3{
     font-size: 25px;
@@ -97,7 +94,7 @@ h2{
 }
 .preco{
     font-weight: bold;
-    margin-top: 5px;
+    margin-top: 0.7%;
     text-align: center;
 }
 .img-produtos{

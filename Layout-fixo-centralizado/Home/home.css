@@ -23,7 +23,7 @@ h1{
  
 }
 .logo{
-    width:100x; 
+    width:100px;
     height:100px;
     position:absolute;
     top:0px;
@@ -46,6 +46,7 @@ li{
     text-decoration: none;
     margin-left: 9px;
     margin-bottom:30px;
+    margin-top: 15px;
 }
 a{
     list-style: none;
@@ -59,7 +60,6 @@ a:hover{
     color:red;
 }
 .content{
-    position:relative;
     float:right;
     bottom: 34.5px;
     width: 70%;

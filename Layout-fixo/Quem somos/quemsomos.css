@@ -14,13 +14,12 @@ header{
    
 }
 .logo{
-    width:100x; 
+    width:100px; 
     height:100px;
     position:absolute;
     top:0px;
     margin-left: 10px;
     margin-top: 10px;
-    
 }
 h1{
     text-align: center;
@@ -35,7 +34,7 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 606px;
+    height: 824px;
 }
 a{
     list-style: none;
@@ -47,6 +46,7 @@ a{
 li{
     margin-left: 9px;
     margin-bottom:30px;
+    list-style: none;
 }
 a:hover{
     color:red;
@@ -55,11 +55,10 @@ a:hover{
     background-color: black;
 }
 .content{
-    position:relative;
     float:right;
     bottom: 34.5px;
     width: 70%;
-    height: 640px;
+    height: 600px;
     background-color:#e94040;
 
 }
