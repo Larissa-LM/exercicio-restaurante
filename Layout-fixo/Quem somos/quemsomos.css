@@ -34,7 +34,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 824px;
+    height: 0px;
+    padding-bottom: 63.8%;
 }
 a{
     list-style: none;

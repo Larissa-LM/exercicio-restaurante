@@ -34,7 +34,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 824px;
+    height: 0px;
+    padding-bottom: 129.7%;
 }
 a{
     list-style: none;
@@ -98,6 +99,15 @@ h2{
 .img-produtos{
     width: 200px;
     height: 200px;
+}
+#temaki{
+    margin-left: 60px;
+}
+#hossomaki{
+    margin-left: 50px;
+}
+#uramaki{
+    margin-left: 70px;
 }
 
 

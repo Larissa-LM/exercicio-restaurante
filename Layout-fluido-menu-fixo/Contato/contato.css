@@ -7,7 +7,7 @@
 /*Design header e menu*/
 body{
     width: 100%;
-
+    background-color:#e94040;
 }
 header{
     width: 100%;
@@ -24,6 +24,7 @@ header{
 }
 h1{
     text-align: center;
+    margin-left: 10%;
     color:white;
     padding: 20px;
     font-size: 60px;
@@ -33,7 +34,7 @@ h1{
 #nav{
     display: inline-block;
     left:0;
-    width:200px;
+    width:210px;
     padding: 0px;
     margin: auto;
     height: 849px;
@@ -46,6 +47,7 @@ a{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 li{
+    list-style: none;
     margin-top: 10%;
     margin-left: 1%;
     margin-bottom:7%;
@@ -59,9 +61,8 @@ a:hover{
 .content{
     float:right;
     bottom: 5%;
-    width: 85.1%;
+    width: 55%;
     height: auto;
-    margin: auto;
     background-color:#e94040;
 
 }
@@ -76,8 +77,8 @@ label{
 }
 #botao{
     background-color: white;
-    width: 9%;
-    height: 4%;
+    width: 50px;
+    height: 20px;
     padding: 0.5%;
 }
 #nome{
@@ -105,7 +106,7 @@ h2{
 }
 .caixa{
     position: relative;
-    margin: 0 36% 0 0;
+    margin: 0 50% 0 0;
 
 }
 h3{

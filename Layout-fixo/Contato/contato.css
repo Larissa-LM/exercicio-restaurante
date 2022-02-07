@@ -34,7 +34,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 824px;
+    height: 0px;
+    padding-bottom: 100%;
 }
 a{
     list-style: none;
@@ -60,6 +61,7 @@ a:hover{
     width: 70%;
     height: auto;
     background-color:#e94040;
+    padding-bottom: 8.8%;
 
 }
 

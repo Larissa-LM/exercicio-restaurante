@@ -6,6 +6,7 @@
 
 body{
     width: 100%;
+    background-color: #e94040;
 }
 header{
     width: 100%;
@@ -22,6 +23,7 @@ header{
 }
 h1{
     text-align: center;
+    margin-left: 7%;
     color:white;
     padding: 20px;
     font-size: 60px;
@@ -29,11 +31,12 @@ h1{
 
 }
 #nav{
-    float: left;
-    width:30%;
-    padding: 0%;
-    margin: 0%;
-    height: 650px;
+    display: inline-block;
+    left:0;
+    width:210px;
+    padding: 0px;
+    margin: auto;
+    height: 849px;
 }
 a{
     list-style: none;
@@ -56,13 +59,14 @@ a:hover{
 .content{
     float:right;
     bottom: 5%;
-    width: 70%;
-    height: 6500px;
+    width: 55%;
+    height: auto;
     background-color:#e94040;
 
 }
 h2{
     text-align: center;
+    margin-right: 50%;
     color: black;
     margin-top: 6%;
     font-size: 40px;
@@ -71,6 +75,7 @@ h2{
 }
 h3{
     color:black;
+    margin-right:50%;
     text-align: center;
     margin-top: 7%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -82,10 +87,11 @@ h3:hover{
 }
 .gallery{
     display:inline-block;
+    margin-right: 50%;
 }
 .gallery:hover{
     background-color: tomato;
-    width: 35.7%;
+    width: 50%;
     height: 4%;
 }
 .gallery:hover p{
