@@ -23,21 +23,20 @@ header{
     margin-top: 1%;
 }
 h1{
-    margin-left: 7%;
     text-align: center;
     color:white;
     padding: 20px;
     font-size: 60px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
+    margin-left: 10%;
 }
 #nav{
     display: inline-block;
     left:0;
     width:210px;
+    padding: 0px;
     margin: auto;
     height: 849px;
-    padding-bottom: 20%;
 }
 a{
     list-style: none;
@@ -60,7 +59,7 @@ a:hover{
 .content{
     float:right;
     bottom: 5%;
-    width: 60%;
+    width: 55%;
     height: auto;
     background-color:#e94040;
 
@@ -68,19 +67,18 @@ a:hover{
 /* Design história */
  h2{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: left;
-    padding: 5%;
+    text-align: center;
+    margin: 7% 50% 0 0;
     font-size: 30px;
  }
 .imgrestaurante{
      width: 400px;
      height: auto;
-     margin-right: auto;
-     margin-left: auto;
+     margin: 6% 40% 6% auto;
  }
  p{
      display: inline-block;
      text-align: justify;
+     margin: 1% 50% 0 4%;
      font-size: 20px;
-     margin-right: 50% ;
  }

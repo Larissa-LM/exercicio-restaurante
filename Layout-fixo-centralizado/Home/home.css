@@ -36,7 +36,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 766px;
+    height: 0px;
+    padding-bottom: 85.1%;
 }
 .background{
     background-color: black;

@@ -36,7 +36,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 766px;
+    height: 0px;
+    padding-bottom: 132.6%;
 }
 .background{
     background-color: black;
@@ -89,6 +90,18 @@ h2{
 }
 .produtos li:hover h3{
     font-size: 25px;
+}
+#uramaki{
+    margin-left: 40px;
+}
+#hossomaki{
+    margin-left: 65px;
+}
+#niguiri{
+    margin-left: 38px;
+}
+#temaki{
+    margin-left: 70px;
 }
 .descricao{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;

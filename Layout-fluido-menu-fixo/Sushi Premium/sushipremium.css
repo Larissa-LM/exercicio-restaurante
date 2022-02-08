@@ -34,9 +34,10 @@ h1{
     display: inline-block;
     left:0;
     width:210px;
+    padding: 0px;
     margin: auto;
-    height: 849px;
-    padding-bottom: 20%;
+    height: 0px;
+    padding-bottom: 70%;
 }
 a{
     list-style: none;
@@ -70,6 +71,7 @@ h2{
     font-size: 30px;
     text-align: left;
     margin: 20px 0;
+    margin-left: 25%;
     padding: 15px;
 
 }
@@ -87,6 +89,12 @@ h2{
 .produtos li:hover h3{
     font-size: 25px;
 }
+#cogumelos{
+    margin-left: 8%;
+}
+#guioza{
+    margin-left: 9%;
+}
 .descricao{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 15px;
@@ -101,5 +109,6 @@ h2{
     width: 200px;
     height: 200px;
 }
+
 
 

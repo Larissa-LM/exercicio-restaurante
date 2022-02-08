@@ -34,9 +34,10 @@ h1{
     display: inline-block;
     left:0;
     width:210px;
+    padding: 0px;
     margin: auto;
-    height: 849px;
-    padding-bottom: 20%;
+    height: 0px;
+    padding-bottom: 70%;
 }
 a{
     list-style: none;

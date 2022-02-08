@@ -36,7 +36,8 @@ h1{
     width:30%;
     padding: 0px;
     margin: 0px;
-    height: 766px;
+    height: 0px;
+    padding-bottom: 91.9%;
 }
 .background{
     background-color: black;
@@ -89,6 +90,12 @@ h2{
 }
 .produtos li:hover h3{
     font-size: 25px;
+}
+#guioza{
+    margin-left: 70px;
+}
+#cogumelos{
+    margin-left: 50px;
 }
 .descricao{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
