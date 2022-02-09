@@ -19,7 +19,7 @@ O site possui as seguintes versões:
 * Compatível com `<Windows / Linux / Mac>`. 
 
 
-## 🚀 Instalando Exercício Restaurante Aki Sushi 🍣
+## 🚀 Instalando - Exercício Restaurante Aki Sushi 🍣
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
@@ -39,7 +39,7 @@ git clone https://github.com/YOUR-USERNAME/exercicio-restaurante.git
 Pronto, você já tem o nosso repositório na sua máquina.
 ```
 
-## :link: Links para a página Exercício Restaurante Aki Sushi 🍣
+## :link: Links para a página - Exercício Restaurante Aki Sushi 🍣
 
 * Layout fixo
   https://larissa-lm.github.io/exercicio-restaurante/Layout-fixo/Home/home.html
