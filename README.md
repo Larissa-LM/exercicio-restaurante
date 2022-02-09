@@ -36,4 +36,12 @@ git clone https://github.com/YOUR-USERNAME/exercicio-restaurante.git
 4. Pressione *Enter* para criar seu clone local.
 
 ```
-Pronto, você já tem o nosso repositório na sua máquina. 
+Pronto, você já tem o nosso repositório na sua máquina.
+```
+
+## :link: Links para a página Exercício Restaurante Aki Sushi 🍣
+
+* Layout fixo
+https://larissa-lm.github.io/exercicio-restaurante/Layout-fixo/Home/home.html
+
+
