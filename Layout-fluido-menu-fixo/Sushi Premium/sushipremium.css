@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 *{
     margin: 0;
     padding: 0; /*remove config padrão do navegador*/
@@ -27,24 +29,20 @@ h1{
     color:white;
     padding: 20px;
     font-size: 60px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 
 }
 #nav{
     display: inline-block;
-    left:0;
     width:210px;
-    padding: 0px;
-    margin: auto;
-    height: 0px;
-    padding-bottom: 70%;
+    height: 1000px;
 }
 a{
     list-style: none;
     text-decoration: none;
     color: white;
-    font-size: 30px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-family:'Poppins', sans-serif;
 }
 li{
     margin-top: 10%;
@@ -59,15 +57,14 @@ a:hover{
 }
 .content{
     float:right;
-    bottom: 5%;
-    width: 70%;
+    width: 55%;
     height: auto;
     background-color:#e94040;
 
 }
 /* Organização do Cardápio */
 h2{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
     font-size: 30px;
     text-align: left;
     margin: 20px 0;
@@ -78,7 +75,7 @@ h2{
 .produtos li{
     display: inline-block;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     padding: 2% 1%;
     margin: 3% 4%
@@ -96,7 +93,7 @@ h2{
     margin-left: 9%;
 }
 .descricao{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
     text-align: center;
 }

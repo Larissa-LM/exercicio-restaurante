@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -26,22 +28,21 @@ h1{
     color:white;
     padding: 20px;
     font-size: 60px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 
 }
 #nav{
     float: left;
     width:30%;
-    padding: 0%;
     margin: 0%;
-    height: 860px;
+    height: 913px;
 }
 a{
     list-style: none;
     text-decoration: none;
     color: white;
     font-size: 30px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 li{
     margin-top: 10%;
@@ -56,7 +57,6 @@ a:hover{
 }
 .content{
     float:right;
-    bottom: 5%;
     width: 70%;
     height: auto;
     background-color:#e94040;
@@ -69,7 +69,7 @@ label{
     color:black;
     font-size: 20px;
     opacity: 1;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 #botao{
     background-color: white;
@@ -98,7 +98,7 @@ h2{
     margin-top: 4%;
     margin-left: 7%;
     font-size: 30px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 .caixa{
     position: relative;
@@ -110,5 +110,5 @@ h3{
     margin-top: 1%;
     margin-left:4%;
     font-size: 30px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
 *{
     margin:0;
     padding: 0; /*remove config padrão do navegador*/
@@ -19,7 +21,7 @@ h1{
     color:white;
     padding: 20px;
     font-size: 60px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
  
 }
 .logo{
@@ -34,10 +36,7 @@ h1{
 #nav{
     float: left;
     width:30%;
-    padding: 0px;
-    margin: 0px;
-    height: 0px;
-    padding-bottom: 85.1%;
+    height: 600px;
 }
 .background{
     background-color: black;
@@ -54,7 +53,7 @@ a{
     text-decoration: none;
     color: white;
     font-size: 30px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 
 a:hover{
@@ -62,9 +61,8 @@ a:hover{
 }
 .content{
     float:right;
-    bottom: 34.5px;
     width: 70%;
-    height: 800px;
+    height: 600px;
     background-color:#e94040;
 
 }
